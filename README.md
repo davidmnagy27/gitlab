@@ -2,4 +2,4 @@
 git with others lab
 ## Team
 * Alex
-* Bobgi
+* Bob
