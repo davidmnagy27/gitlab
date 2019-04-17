@@ -4,3 +4,4 @@ git with others lab
 * Alex
 * Bob
 * Madison
+* Yanni
